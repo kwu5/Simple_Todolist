@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Simple_To-do-List</string>
+    <string name="inbox">InBox</string>
+    <string name="today">Today</string>
+    <string name="upcoming">Upcoming</string>
+    <string name="calendar">Calendar</string>
+    <string name="Title">Title</string>
+    <string name="title">title</string>
+    <string name="description">Description</string>
+    <string name="date">Date</string>
+    <string name="DefaultTime">--/--/----</string>
+    <string name="time">Time</string>
+    <string name="save">Save</string>
+    <string name="upcomingweek">Upcoming</string>
+
+</resources>
